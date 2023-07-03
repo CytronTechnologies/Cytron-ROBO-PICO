@@ -1,7 +1,7 @@
 # Cytron Robo Pico Simplifying Robotics with Raspberry PiⓇ Pico / Pico W
 If you are new to [Cytron Robo Pico](https://cytron.io/p-robo-pico-simplifying-robotics-with-raspberry-pi-pico) and want to get started quickly, you are in the right place! Here you will find all the information you need to set up your hardware and software and start coding with the Cytron Robo Pico.
-
-<img src="https://static.cytron.io/image/catalog/products/V-ROBO-PICO/robo-pico-features-label.png" width="800"> 
+![Works with Pico and Pico W](https://github.com/CytronTechnologies/Cytron-ROBO-PICO/blob/main/images/robo-pico-works-with-raspberry-pi-pico-and-pico-w.png)
+![Robo Pico Features Label](https://github.com/CytronTechnologies/Cytron-ROBO-PICO/blob/main/images/robo-pico-features-label.png)
 
 ## Requirements  
 To get started, you will need the following hardware and software:  
