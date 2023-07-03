@@ -1,0 +1,8 @@
+CIRCUITPY_WIFI_SSID = "Your-Wifi"
+CIRCUITPY_WIFI_PASSWORD = "Your-Password"
+
+# Thingspeak
+
+thingspeak_write_api_key = "your write API key"
+thingspeak_read_api_key = "your read API key"
+
