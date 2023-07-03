@@ -15,7 +15,7 @@ This code includes CircuitPython. If you want to install CircuitPython on the Ra
  
 
 ## Documentation 
-For more information on the CM4 Maker Board, check out the datasheet here:  
+For more information on the Robo Pico, check out the datasheet here:  
 * [Robo Pico Datasheet](https://docs.google.com/document/d/1X67yKga7m5pugBcogww6pyR2YHXwRJL79_nNDLTYcKU/edit)  
 
 
