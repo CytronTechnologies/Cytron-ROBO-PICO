@@ -25,6 +25,7 @@ EMAIL    : support@cytron.io
 
 MORE INFO:
 https://cytron.io/p-robo-pico-simplifying-robotics-with-raspberry-pi-pico
+https://circuitpython.org/board/raspberry_pi_pico_w
 https://circuitpython.org/board/raspberry_pi_pico
 """
 
