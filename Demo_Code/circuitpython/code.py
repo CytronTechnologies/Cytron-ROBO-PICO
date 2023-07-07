@@ -37,7 +37,7 @@ import time
 import pwmio
 from adafruit_motor import servo, motor
 
-# Initialize LEDs
+# Initialize LEDs 
 # LEDs placement on Maker Pi RP2040
 LED_PINS = [board.GP0, 
             board.GP1,
