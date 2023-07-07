@@ -36,12 +36,8 @@ import adafruit_ntp
 TZ_OFFSET = +8  
 
 # Connect to local network
-try:
-    # Retrive your Wifi SSID and password from setting.toml file
-    wifi.radio.connect(os.getenv('CIRCUITPY_WIFI_SSID'), os.getenv('CIRCUITPY_WIFI_PASSWORD'))
-except ConnectionError:
-    print("Wifi failed to connect.")
-
+# Retrive your Wifi SSID and password from settings.toml file
+wifi.radio.connect(os.getenv("CIRCUITPY_WIFI_SSID"), os.getenv("CIRCUITPY_WIFI_PASSWORD"))
 print("Wifi connected.")
 
 # Get current time using NTP
