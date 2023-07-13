@@ -1,7 +1,7 @@
 """
 DESCRIPTION:
 This example code will uses: Robo Pico and Raspberry Pi Pico / Pico W
-to read analog value on the Maker Line.
+to read analog value on the Maker Soil.
 This code applicable to other analog sensor.
 
 CONNECTION:
@@ -16,6 +16,8 @@ EMAIL    : support@cytron.io
 REFERENCE:
 Tutorial link:
 https://www.cytron.io/tutorial/get-started-robo-pico-circuitpython-read-analog-sensor-value
+Maker Soil:
+https://my.cytron.io/p-maker-soil-moisture-sensor
 """
 #Import necessary libraries
 import board
