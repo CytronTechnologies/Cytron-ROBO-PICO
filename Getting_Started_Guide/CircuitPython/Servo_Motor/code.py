@@ -25,10 +25,6 @@ pwm4 = pwmio.PWMOut(board.GP15, duty_cycle=0, frequency=50)
 
 # You might need to calibrate the min_pulse (pulse at 0 degrees) and max_pulse (pulse at 180 degrees) to get an accurate servo angle.
 # The pulse range is 750 - 2250 by default (if not defined).
-
-# You can also define the expected angle range:-
-# servo = servo.Servo(board.D5, actuation_range=135)
-
 # Initialize Servo objects.
 servo1 = servo.Servo(pwm1, min_pulse=580, max_pulse=2700)
 servo2 = servo.Servo(pwm2, min_pulse=580, max_pulse=2700)

@@ -25,13 +25,8 @@ import adafruit_hcsr04
 #Define pin GP16 and GP17 used on the board
 sonar = adafruit_hcsr04.HCSR04(trigger_pin=board.GP3, echo_pin=board.GP2)
 
-
-def Read_Ultrasonic():
-    time.sleep(0.1)
-    return sonar.distance
-
 while True:
-    Distance = Read_Ultrasonic()
+    Distance = sonar.distance
     print('Distance : ', Distance, 'cm')
     time.sleep(1)
 
