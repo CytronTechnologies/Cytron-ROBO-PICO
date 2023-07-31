@@ -7,10 +7,6 @@ using MicroPython
 AUTHOR  : Cytron Technologies Sdn Bhd
 WEBSITE  : www.cytron.io
 EMAIL    : support@cytron.io
-
-REFERENCE:
-Tutorial link:
-https://www.cytron.io/tutorial/get-started-robo-pico-circuitpython-turn-on-the-music
 """
 #Import necessary libraries
 from machine import Pin, PWM

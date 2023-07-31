@@ -6,10 +6,6 @@ to light up LEDs by pressing buttons on Robo Pico using MicroPython.
 AUTHOR  : Cytron Technologies Sdn Bhd
 WEBSITE  : www.cytron.io
 EMAIL    : support@cytron.io
-
-REFERENCE:
-Tutorial link:
-https://www.cytron.io/tutorial/get-started-robo-pico-circuitpython-press-the-buttons
 """
 #import necessary libraries
 from machine import Pin

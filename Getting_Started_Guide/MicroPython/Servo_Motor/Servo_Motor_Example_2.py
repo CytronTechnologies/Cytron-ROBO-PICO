@@ -6,10 +6,6 @@ to control the servo on the Robo Pico servo port.
 AUTHOR  : Cytron Technologies Sdn Bhd
 WEBSITE  : www.cytron.io
 EMAIL    : support@cytron.io
-
-REFERENCE:
-Tutorial link:
-https://www.cytron.io/tutorial/get-started-robo-pico-circuitpython-micro-servo-motor
 """
 import time
 from machine import Pin, PWM

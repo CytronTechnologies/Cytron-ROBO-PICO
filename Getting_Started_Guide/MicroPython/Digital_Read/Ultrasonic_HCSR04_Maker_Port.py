@@ -11,10 +11,6 @@ GP3                 - Trig
 AUTHOR  : Cytron Technologies Sdn Bhd
 WEBSITE  : www.cytron.io
 EMAIL    : support@cytron.io
-
-REFERENCE:
-Tutorial link:
-https://www.cytron.io/tutorial/get-started-robo-pico-circuitpython-read-analog-sensor-value
 """
 #Import necessary libraries
 import time

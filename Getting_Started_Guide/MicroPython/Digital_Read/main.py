@@ -14,7 +14,6 @@ EMAIL    : support@cytron.io
 
 REFERENCE:
 Tutorial link:
-https://www.cytron.io/tutorial/get-started-robo-pico-circuitpython-read-analog-sensor-value
 https://microcontrollerslab.com/hc-sr04-ultrasonic-sensor-raspberry-pi-pico-micropython-tutorial/
 """
 #Import necessary libraries

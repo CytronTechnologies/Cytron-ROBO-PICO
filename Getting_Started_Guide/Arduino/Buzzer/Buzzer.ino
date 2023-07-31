@@ -7,10 +7,6 @@ using Arduino.
 AUTHOR  : Cytron Technologies Sdn Bhd
 WEBSITE  : www.cytron.io
 EMAIL    : support@cytron.io
-
-REFERENCE:
-Tutorial link:
-https://www.cytron.io/tutorial/get-started-robo-pico-circuitpython-turn-on-the-music
 */
 
 const int buzzerPin = 22;

@@ -11,10 +11,6 @@ EMAIL    : support@cytron.io
 REFERENCE:
 Code adapted from EngineerGarage:
 https://www.engineersgarage.com/micropython-esp8266-esp32-rtc-utc-local-time/
-
-MORE INFO:
-https://cytron.io/p-robo-pico-simplifying-robotics-with-raspberry-pi-pico
-https://circuitpython.org/board/raspberry_pi_pico_w
 """
 from machine import RTC
 import network

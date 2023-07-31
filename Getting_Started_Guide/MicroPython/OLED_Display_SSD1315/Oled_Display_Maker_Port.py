@@ -12,10 +12,6 @@ GP3       - SCL
 AUTHOR  : Cytron Technologies Sdn Bhd
 WEBSITE  : www.cytron.io
 EMAIL    : support@cytron.io
-
-REFERENCE:
-Tutorial link:
-https://www.cytron.io/tutorial/get-started-robo-pico-circuitpython-display-text-on-oled
 """
 #Import necessary libraries
 from machine import Pin, SoftI2C

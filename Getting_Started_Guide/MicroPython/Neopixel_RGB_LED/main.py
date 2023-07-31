@@ -6,10 +6,6 @@ to light up neopixel rgb led on Robo Pico using MicroPython.
 AUTHOR  : Cytron Technologies Sdn Bhd
 WEBSITE  : www.cytron.io
 EMAIL    : support@cytron.io
-
-REFERENCE:
-Tutorial link:
-https://www.cytron.io/tutorial/get-started-robo-pico-circuitpyhton-lighting-up-the-neopixel-rgb-led
 """
 #import necessary libraries
 from machine import Pin
