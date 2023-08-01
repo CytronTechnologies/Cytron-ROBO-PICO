@@ -12,9 +12,9 @@ To get started, you will need the following hardware and software:
 
 **Software:**  
 This repository includes code for CircuitPython, MicroPython, and Arduino.   
-If you want to install CircuitPython on the Raspberry Pi Pico or Pico W, you can visit download [CircuitPython on Pico](https://circuitpython.org/board/raspberry_pi_pico) or [CircuitPython on Pico W](https://circuitpython.org/board/raspberry_pi_pico_w).  
-For MicroPython you can download it from [MicroPython on Pico](https://micropython.org/download/rp2-pico/) or [MicroPython on Pico W](https://micropython.org/download/rp2-pico-w/).  
-For Arduino you can follow this instructions to [Install Arduino Board Manager](https://github.com/earlephilhower/arduino-pico#installing-via-arduino-boards-manager).  
+* To install CircuitPython on the Raspberry Pi Pico or Pico W, you can download the firmware for [CircuitPython on Pico](https://circuitpython.org/board/raspberry_pi_pico) or [CircuitPython on Pico W](https://circuitpython.org/board/raspberry_pi_pico_w).  
+* For MicroPython you can download firmware for [MicroPython on Pico](https://micropython.org/download/rp2-pico/) or [MicroPython on Pico W](https://micropython.org/download/rp2-pico-w/).  
+* For Arduino you can follow this instruction to [Install Arduino Board Manager](https://github.com/earlephilhower/arduino-pico#installing-via-arduino-boards-manager).  
  
 
 ## Resources
