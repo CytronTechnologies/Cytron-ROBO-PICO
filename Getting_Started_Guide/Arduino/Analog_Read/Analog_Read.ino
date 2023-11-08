@@ -1,13 +1,7 @@
 /*
 DESCRIPTION:
 This example code will uses: Robo Pico and Raspberry Pi Pico / Pico W
-to read analog value on the Maker Line.
-This code applicable to other analog sensor.
-
-CONNECTION:
-Robo Pico : Maker Line
-GROVE 6   - Maker Line Grove
-GP27      - OUT
+to read analog value using Arduino.
 
 AUTHOR  : Cytron Technologies Sdn Bhd
 WEBSITE  : www.cytron.io
@@ -19,7 +13,7 @@ int raw_value = 0;
 float voltage_value = 0; 
 
 void setup() {
-  // declare the ledPin as an OUTPUT:
+  // declare the sensorPin as an INPUT:
   pinMode(sensorPin, INPUT);
   Serial.begin(9600);
   // enable adc resolution to 12-bit (default 10-bit)
