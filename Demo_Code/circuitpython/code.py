@@ -105,7 +105,7 @@ for i in range(len(LEDS)):
         # Play melody tones
         simpleio.tone(PIEZO_PIN, MELODY_NOTE[i], duration=MELODY_DURATION[i])
     else:
-        # Light up the remainding LEDs
+        # Light up the remaining LEDs
         time.sleep(0.15)
 
 # Turn off LEDs one-by-one very quickly
